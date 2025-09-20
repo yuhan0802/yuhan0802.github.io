@@ -24,10 +24,10 @@ My research interest includes multimodal and efficient training. If you’re int
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!. 
-- *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!.
-- *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!.
-- *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!.
+- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!
+- *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!
+- *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!
+- *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!
 
 # 📝 Publications 
 
