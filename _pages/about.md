@@ -40,7 +40,7 @@ redirect_from:
 **Yuhan Liu**, Linghui Fu, Zhen Yang, Hao Chen, Youfu Li, Yongjian Deng
 
 [**Project**](https://github.com/yuhan0802/EPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<p style="color:#7f8c8d font-style: italic">We propose a novel framework, EPA, which transfers the learning paradigm from an unstable pixel space to a semantically aware feature space insensitive to degradation, in order to overcome the problem of reduced model generalization ability caused by image degradation in training data.</p>
+<p style="color:#7f8c8d;font-style:italic">We propose a novel framework, EPA, which transfers the learning paradigm from an unstable pixel space to a semantically aware feature space insensitive to degradation, in order to overcome the problem of reduced model generalization ability caused by image degradation in training data.</p>
 </div>
 </div>
 
