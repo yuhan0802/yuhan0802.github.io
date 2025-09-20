@@ -50,7 +50,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 **Yuhan Liu**, Yongjian Deng, Bochen Xie, Hai Liu, Zhen Yang, Youfu Li
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">We propose a motion-aware learning framework that addresses the inability of traditional 2D CNNs to effectively encode motion for event-based recognition. Our method introduces an auxiliary Motion-Aware Branch (MAB) to learn dynamic spatio-temporal correlations, providing complementary motion-centric knowledge that is then fused with the rich spatial semantics from the primary CNN branch for a more robust and comprehensive representation.</p>
 </div>
 </div>
@@ -62,7 +62,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 **Yuhan Liu**, Yongjian Deng, Hao Chen, Zhen Yang
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">This paper introduces a novel E-VFI framework that obviates the need for explicit motion estimation by directly synthesizing the target frame. We achieve this by first reconstructing a structural reference of the intermediate scene solely from event data, and then propose a deformable alignment module (E-PCD) to align keyframes to this reference, which significantly enhances the model's ability to handle severe occlusions where traditional motion-based methods typically fail.</p>
 </div>
 </div>
@@ -74,7 +74,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 
-**Project** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">This paper introduces SAM-Event-Adapter, a novel and parameter-efficient method to adapt the Segment Anything Model (SAM) for multi-modal Event-RGB semantic segmentation. By freezing the powerful SAM backbone and inserting lightweight adapter modules, we effectively fuse motion cues from event cameras with texture information from RGB images, significantly improving segmentation performance in adverse conditions while avoiding the prohibitive costs and generalization loss associated with full model retraining.</p>
 </div>
 </div>
