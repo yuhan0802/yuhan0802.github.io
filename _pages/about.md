@@ -21,18 +21,18 @@ redirect_from:
 
 🔬 My research interest includes multimodal and efficient training. 
 
-🤝 If you’re interested in my work or have ideas for collaboration, feel free to reach out via <a href='yuhanliu@stu.xmu.edu.cn'>email</a>.
+🤝 If you’re interested in my work or have ideas for collaboration, feel free to reach out via email.
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:blue;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!. 
-- *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:blue;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!.
-- *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:blue;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!.
-- *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:blue;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!.
+- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!. 
+- *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!.
+- *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!.
+- *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:#6CE6F5;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/nips2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning](https://github.com/yuhan0802/EPA)
@@ -40,7 +40,7 @@ redirect_from:
 **Yuhan Liu**, Linghui Fu, Zhen Yang, Hao Chen, Youfu Li, Yongjian Deng
 
 [**Project**](https://github.com/yuhan0802/EPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<p style="color:#7f8c8d font-style: italic">We propose a novel framework, EPA, which transfers the learning paradigm from an unstable pixel space to a semantically aware feature space insensitive to degradation, in order to overcome the problem of reduced model generalization ability caused by image degradation in training data.</p>
 </div>
 </div>
 
