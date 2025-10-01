@@ -31,6 +31,17 @@ My research interest includes multimodal and efficient training. If you’re int
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Event-based Video Interpolation via Complementary Motion Information](https://yuhan0802.github.io/)
+
+**Yuhan Liu**, Linghui Fu, Hao Chen, Zhen Yang, Youfu Li, Yongjian Deng
+
+<p style="color:#7f8c8d;font-style:italic">We propose a novel end-to-end learning framework to explicitly leverage the complementary characteristics of event signals and frames for event-based video interpolation. Our method synergistically fuses dense contextual information from frames with sparse but precise edge motion from events via a proposed Edge Guided Attention (EGA) module and introduces an event-based visibility map to adaptively mitigate occlusions during the warping process.</p>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/nips2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
