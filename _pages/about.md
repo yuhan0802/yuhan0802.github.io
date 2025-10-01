@@ -24,6 +24,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Event-based Video Interpolation via Complementary Motion Information</em></strong>" accepted by EAAI 2025!
 - *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!
 - *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!
 - *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!
