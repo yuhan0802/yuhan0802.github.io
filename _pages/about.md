@@ -109,5 +109,7 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 - [Yurun Chen](https://yurunchen.github.io/) - Zhejiang University.
 
 # 💻 Services
+*Conference Reviewer*
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 *Journal Reviewer*
-- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
