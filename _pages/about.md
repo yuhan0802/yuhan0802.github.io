@@ -24,6 +24,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EvSAM: Segment Anything Model with Event-based Assistance.</em></strong>" accepted by ACM TOMM 2026!
 - *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Event-based Video Interpolation via Complementary Motion Information</em></strong>" accepted by EAAI 2025!
 - *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!
 - *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!
