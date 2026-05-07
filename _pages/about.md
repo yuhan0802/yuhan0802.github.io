@@ -109,8 +109,8 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 # 🎖 Honors and Awards
 - *2025.06* Received the title of Outstanding Graduate of Beijing University of Technology. 
 - *2024.09* Received National Scholarship. 
-- *2022.10* National Second Prize in the Chinese College Students Computer Competition.
-- *2022.05* Provincial Second Prize in the Chinese College Students Computer Software Design Competition.
+- *2022.10* National Prize in the Chinese College Students Computer Competition.
+- *2022.05* Provincial Prize in the Chinese College Students Computer Software Design Competition.
 
 # 📖 Educations
 - *NOW*, pursuing a Ph.D. at Xiamen University (MAC Lab). 
