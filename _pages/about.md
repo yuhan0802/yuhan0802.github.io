@@ -24,6 +24,7 @@ My research interest includes multimodal and efficient training. If you’re int
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation.</em></strong>" accepted by CVPR 2026!
 - *2025.12*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EvSAM: Segment Anything Model with Event-based Assistance.</em></strong>" accepted by ACM TOMM 2026!
 - *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Event-based Video Interpolation via Complementary Motion Information</em></strong>" accepted by EAAI 2025!
 - *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!
@@ -112,6 +113,8 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 # 💻 Services
 *Conference Reviewer*
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- ACM International Conference on Multimedia (ACM MM)
+- The Conference on Neural Information Processing Systems (NeurIPS)
 
 *Journal Reviewer*
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
