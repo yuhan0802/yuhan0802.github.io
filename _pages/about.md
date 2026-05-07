@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-Hi! I'm a Ph.D. student at Xiamen University, working under the guidance of <a href='https://mac.xmu.edu.cn/ljcao/'>Liujuan Cao</a> and <a href='https://mac.xmu.edu.cn/rrji/'>Rongrong Ji</a>. I also collaborate closely with Prof. <a href='https://informatics.xmu.edu.cn/info/1395/25099.htm'>Yiyi Zhou</a> and Prof. <a href='https://yongjiandeng.github.io/'>Yongjian Deng</a> (Beijing university of technology). 
+Hi! I'm a Ph.D. student at Xiamen University, working under the guidance of <a href='https://mac.xmu.edu.cn/rrji/'>Rongrong Ji</a> and <a href='https://mac.xmu.edu.cn/ljcao/'>Liujuan Cao</a>. I also collaborate closely with Prof. <a href='https://informatics.xmu.edu.cn/info/1395/25099.htm'>Yiyi Zhou</a> and Prof. <a href='https://yongjiandeng.github.io/'>Yongjian Deng</a> (Nankai university). 
 
 My research interest includes multimodal and efficient training. If you’re interested in my work or have ideas for collaboration, feel free to reach out via email.
 
@@ -107,7 +107,7 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 - *2018.09 - 2022.06*, Bachelor's Degress, Huaqiao Univsersity.
 
 # 🤝 Collaborators
-- [Yongjian Deng](https://yongjiandeng.github.io/) - Beijing University of Technology.
+- [Yongjian Deng](https://yongjiandeng.github.io/) - Nankai University.
 - [Yurun Chen](https://yurunchen.github.io/) - Zhejiang University.
 
 # 💻 Services
