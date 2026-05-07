@@ -32,7 +32,18 @@ My research interest includes multimodal and efficient training. If you’re int
 - *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!
 - *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://github.com/Sudadaaaa/OF-AF)
+
+**Linghui Fu\***, **Yuhan Liu\***, Hao Chen, Zhen Yang, Yongjian Deng
+
+<p style="color:#7f8c8d;font-style:italic">We present a novel event-based video frame interpolation framework to address the efficiency-quality trade-off of flow-based warping. Leveraging the high temporal resolution of events, it obtains holistic motion trajectories via a bidirectional flow estimation block in a single pass. A flow query module retrieves bidirectional optical flow for arbitrary timestamps with no redundant computation, and a bidirectional warping mechanism fuses dual warping strengths to suppress artifacts and produce high-fidelity frames.</p>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
