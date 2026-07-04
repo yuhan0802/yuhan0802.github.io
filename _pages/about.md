@@ -45,6 +45,18 @@ My research interest includes multimodal and efficient training. If you’re int
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='images/TOMM2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvSAM: Segment Anything Model with Event-based Assistance](https://dl.acm.org/doi/10.1145/3786794/)
+
+Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yongjian Deng
+
+<p style="color:#7f8c8d;font-style:italic">We propose EvSAM, an RGB-event multi-modal framework that enhances SAM for challenging visual scenarios by integrating dynamic event cues with RGB semantics. Through the proposed MS2PAB and EFInj modules, EvSAM achieves effective spatiotemporal alignment and adaptive cross-modal fusion, improving event-based semantic segmentation and showing strong scalability to depth estimation.</p>
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
