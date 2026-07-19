@@ -42,7 +42,8 @@ My research interest includes multimodal and efficient training. If you’re int
 
 **Yuhan Liu**, Yongjian Deng, Linghui Fu, Hao Chen, Zhen Yang, Youfu Li, Boxin Shi 
 
-[**Project**](https://github.com/yuhan0802/DSER-pp) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/yuhan0802/DSER-pp) 
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <p style="color:#7f8c8d;font-style:italic">We propose DSER++, a purely synthesis-based framework for event-based video frame interpolation that avoids explicit motion estimation. It constructs an event-derived motion reference, aligns keyframes through bidirectional event-guided aggregation, and introduces a Bidirectional Asymmetric Selective Refinement module to recover occluded and non-rigid regions with reliable keyframe support.</p>
 </div>
 </div>
@@ -53,7 +54,7 @@ My research interest includes multimodal and efficient training. If you’re int
 [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://github.com/Sudadaaaa/OF-AF)
 
 **Linghui Fu\***, **Yuhan Liu\***, Hao Chen, Zhen Yang, Yongjian Deng
-
+<strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:W7OEmFMy1HYC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">We present a novel event-based video frame interpolation framework to address the efficiency-quality trade-off of flow-based warping. Leveraging the high temporal resolution of events, it obtains holistic motion trajectories via a bidirectional flow estimation block in a single pass. A flow query module retrieves bidirectional optical flow for arbitrary timestamps with no redundant computation, and a bidirectional warping mechanism fuses dual warping strengths to suppress artifacts and produce high-fidelity frames.</p>
 </div>
 </div>
@@ -76,7 +77,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yon
 [Event-based Video Interpolation via Complementary Motion Information](https://yuhan0802.github.io/)
 
 **Yuhan Liu**, Linghui Fu, Hao Chen, Zhen Yang, Youfu Li, Yongjian Deng
-
+<strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:IjCSPb-OGe4C'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">We propose a novel end-to-end learning framework to explicitly leverage the complementary characteristics of event signals and frames for event-based video interpolation. Our method synergistically fuses dense contextual information from frames with sparse but precise edge motion from events via a proposed Edge Guided Attention (EGA) module and introduces an event-based visibility map to adaptively mitigate occlusions during the warping process.</p>
 </div>
 </div>
@@ -88,7 +89,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yon
 
 **Yuhan Liu**, Linghui Fu, Zhen Yang, Hao Chen, Youfu Li, Yongjian Deng
 
-[**Project**](https://github.com/yuhan0802/EPA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/yuhan0802/EPA) <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">We propose a novel framework, EPA, which transfers the learning paradigm from an unstable pixel space to a semantically aware feature space insensitive to degradation, in order to overcome the problem of reduced model generalization ability caused by image degradation in training data.</p>
 </div>
 </div>
@@ -100,7 +101,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yon
 
 **Yuhan Liu**, Yongjian Deng, Bochen Xie, Hai Liu, Zhen Yang, Youfu Li
 
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:qjMakFHDy7sC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">We propose a motion-aware learning framework that addresses the inability of traditional 2D CNNs to effectively encode motion for event-based recognition. Our method introduces an auxiliary Motion-Aware Branch (MAB) to learn dynamic spatio-temporal correlations, providing complementary motion-centric knowledge that is then fused with the rich spatial semantics from the primary CNN branch for a more robust and comprehensive representation.</p>
 </div>
 </div>
@@ -112,7 +113,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yon
 
 **Yuhan Liu**, Yongjian Deng, Hao Chen, Zhen Yang
 
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:u-x6o8ySG0sC'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">This paper introduces a novel E-VFI framework that obviates the need for explicit motion estimation by directly synthesizing the target frame. We achieve this by first reconstructing a structural reference of the intermediate scene solely from event data, and then propose a deformable alignment module (E-PCD) to align keyframes to this reference, which significantly enhances the model's ability to handle severe occlusions where traditional motion-based methods typically fail.</p>
 </div>
 </div>
@@ -124,7 +125,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yon
 
 Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 
- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+ <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:d1gkVwhDpl0C'></span></strong>
 <p style="color:#7f8c8d;font-style:italic">This paper introduces SAM-Event-Adapter, a novel and parameter-efficient method to adapt the Segment Anything Model (SAM) for multi-modal Event-RGB semantic segmentation. By freezing the powerful SAM backbone and inserting lightweight adapter modules, we effectively fuse motion cues from event cameras with texture information from RGB images, significantly improving segmentation performance in adverse conditions while avoiding the prohibitive costs and generalization loss associated with full model retraining.</p>
 </div>
 </div>
