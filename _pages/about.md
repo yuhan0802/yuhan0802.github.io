@@ -34,6 +34,18 @@ My research interest includes multimodal and efficient training. If you’re int
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference](https://ieeexplore.ieee.org/document/11614017)
+
+**Yuhan Liu**, Yongjian Deng, Linghui Fu, Hao Chen, Zhen Yang, Youfu Li, Boxin Shi 
+
+[**Project**](https://github.com/yuhan0802/DSER-pp) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<p style="color:#7f8c8d;font-style:italic">We propose DSER++, a purely synthesis-based framework for event-based video frame interpolation that avoids explicit motion estimation. It constructs an event-derived motion reference, aligns keyframes through bidirectional event-guided aggregation, and introduces a Bidirectional Asymmetric Selective Refinement module to recover occluded and non-rigid regions with reliable keyframe support.</p>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
