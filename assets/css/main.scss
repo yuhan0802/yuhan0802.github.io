@@ -109,27 +109,7 @@ h1:before, .anchor:before {
 }
 
 .news-section {
-    margin: 2em 0;
-
-    .news-heading {
-        margin: 0 0 1.4em;
-        padding: 0;
-        border: 0;
-        color: #000;
-        font-size: 0.75em;
-        font-weight: 600;
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
-
-        &::after {
-            content: "";
-            display: block;
-            width: 26px;
-            height: 2px;
-            margin-top: 10px;
-            background: #333;
-        }
-    }
+    margin: 0 0 2em;
 
     .news-timeline {
         margin: 0 0 0 5px;
@@ -190,4 +170,8 @@ h1:before, .anchor:before {
         &:hover { text-decoration: underline; }
         &:focus-visible { outline: 2px solid #16396a; outline-offset: 4px; }
     }
+}
+
+.show_paper_citations {
+    white-space: nowrap;
 }
