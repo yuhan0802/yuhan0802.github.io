@@ -19,6 +19,29 @@
                     element.innerHTML = '| Citations: ' + publication['num_citations'];
                 }
             });
+
+            var papers = Array.prototype.slice.call(document.querySelectorAll('.paper-box[data-scholar-id]'));
+            if (papers.length) {
+                // Keep the publication section in place when moving its cards.
+                var marker = document.createComment('Publications sorted by citations');
+                papers[0].parentNode.insertBefore(marker, papers[0]);
+                var rankedPapers = papers.map(function (paper, index) {
+                    var publication = data['publications'] && data['publications'][paper.getAttribute('data-scholar-id')];
+                    var citations = publication && Number(publication['num_citations']);
+                    return {
+                        element: paper,
+                        citations: Number.isFinite(citations) ? citations : -1,
+                        index: index
+                    };
+                });
+                rankedPapers.sort(function (a, b) {
+                    return b.citations - a.citations || a.index - b.index;
+                });
+                rankedPapers.forEach(function (paper) {
+                    marker.parentNode.insertBefore(paper.element, marker);
+                });
+                marker.parentNode.removeChild(marker);
+            }
         });
     })
 </script>

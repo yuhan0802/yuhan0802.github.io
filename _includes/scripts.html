@@ -2,3 +2,19 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+    document.querySelectorAll('.news-section').forEach(function (section) {
+        var toggle = section.querySelector('.news-toggle');
+        var items = section.querySelectorAll('.news-item');
+        if (!toggle) return;
+        toggle.addEventListener('click', function () {
+            var expanded = toggle.getAttribute('aria-expanded') !== 'true';
+            Array.prototype.forEach.call(items, function (item, index) {
+                item.hidden = index >= 5 && !expanded;
+            });
+            toggle.setAttribute('aria-expanded', String(expanded));
+            toggle.textContent = expanded ? 'Show less' : 'Show more';
+        });
+    });
+</script>

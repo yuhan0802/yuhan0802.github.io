@@ -17,25 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 About Me
+# <!-- 👋 --> About Me
 Hi! I'm a Ph.D. student at Xiamen University, working under the guidance of <a href='https://mac.xmu.edu.cn/rrji/'>Rongrong Ji</a> and <a href='https://mac.xmu.edu.cn/ljcao/'>Liujuan Cao</a>. I also collaborate closely with Prof. <a href='https://informatics.xmu.edu.cn/info/1395/25099.htm'>Yiyi Zhou</a> and Prof. <a href='https://yongjiandeng.github.io/'>Yongjian Deng</a> (Nankai university). 
 
 My research interest includes multimodal and efficient training. If you’re interested in my work or have ideas for collaboration, feel free to reach out via email.
 
 
-# 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference.</em></strong>" accepted by TCSVT 2026!
-- *2026.02*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation.</em></strong>" accepted by CVPR 2026!
-- *2025.12*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EvSAM: Segment Anything Model with Event-based Assistance.</em></strong>" accepted by ACM TOMM 2026!
-- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Event-based Video Interpolation via Complementary Motion Information</em></strong>" accepted by EAAI 2025!
-- *2025.09*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</em></strong>" accepted by NIPS 2025!
-- *2025.03*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Neuromorphic event-based recognition boosted by motion-aware learning</em></strong>" accepted by Neurocomputing 2025!
-- *2024.06*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>Video Frame Interpolation via Direct Synthesis with the Event-based Reference</em></strong>" accepted by CVPR 2024!
-- *2024.04*: &nbsp;🎉🎉 Paper "<strong style="color:#6DA0BC;"><em>SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</em></strong>" accepted by ICRA 2024!
+<section class="news-section" aria-labelledby="news-heading">
+<h2 id="news-heading" class="news-heading">News</h2>
+<ol id="news-list" class="news-timeline">
+  <li class="news-item">
+    <time datetime="2026-07">JUL 2026</time>
+    <p>Paper "<span class="news-paper-title">Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference.</span>" accepted by TCSVT 2026!</p>
+  </li>
+  <li class="news-item">
+    <time datetime="2026-02">FEB 2026</time>
+    <p>Paper "<span class="news-paper-title">One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation.</span>" accepted by CVPR 2026!</p>
+  </li>
+  <li class="news-item">
+    <time datetime="2025-12">DEC 2025</time>
+    <p>Paper "<span class="news-paper-title">EvSAM: Segment Anything Model with Event-based Assistance.</span>" accepted by ACM TOMM 2026!</p>
+  </li>
+  <li class="news-item">
+    <time datetime="2025-09">SEP 2025</time>
+    <p>Paper "<span class="news-paper-title">Event-based Video Interpolation via Complementary Motion Information</span>" accepted by EAAI 2025!</p>
+  </li>
+  <li class="news-item">
+    <time datetime="2025-09">SEP 2025</time>
+    <p>Paper "<span class="news-paper-title">EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning</span>" accepted by NIPS 2025!</p>
+  </li>
+  <li class="news-item" hidden>
+    <time datetime="2025-03">MAR 2025</time>
+    <p>Paper "<span class="news-paper-title">Neuromorphic event-based recognition boosted by motion-aware learning</span>" accepted by Neurocomputing 2025!</p>
+  </li>
+  <li class="news-item" hidden>
+    <time datetime="2024-06">JUN 2024</time>
+    <p>Paper "<span class="news-paper-title">Video Frame Interpolation via Direct Synthesis with the Event-based Reference</span>" accepted by CVPR 2024!</p>
+  </li>
+  <li class="news-item" hidden>
+    <time datetime="2024-04">APR 2024</time>
+    <p>Paper "<span class="news-paper-title">SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation</span>" accepted by ICRA 2024!</p>
+  </li>
+</ol>
+<button class="news-toggle" type="button" aria-expanded="false" aria-controls="news-list">Show more</button>
+</section>
 
-# 📝 Publications
+# <!-- 📝 --> Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:eQOLeE2rZwMC'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Video Frame Interpolation via Asymmetric Refinement with the Event-based Reference](https://ieeexplore.ieee.org/document/11614017)
@@ -48,7 +77,7 @@ My research interest includes multimodal and efficient training. If you’re int
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:W7OEmFMy1HYC'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://github.com/Sudadaaaa/OF-AF)
@@ -59,7 +88,7 @@ My research interest includes multimodal and efficient training. If you’re int
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='images/TOMM2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:Y0pCki6q_DkC'><div class='paper-box-image'><div><div class="badge">ACM TOMM 2026</div><img src='images/TOMM2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EvSAM: Segment Anything Model with Event-based Assistance](https://dl.acm.org/doi/10.1145/3786794/)
@@ -71,7 +100,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:IjCSPb-OGe4C'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Event-based Video Interpolation via Complementary Motion Information](https://yuhan0802.github.io/)
@@ -82,7 +111,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/nips2025.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:Tyk-4Ss8FVUC'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/nips2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning](https://github.com/yuhan0802/EPA)
@@ -94,7 +123,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:qjMakFHDy7sC'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2025</div><img src='images/neurocomputing2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neuromorphic event-based recognition boosted by motion-aware learning](https://www.sciencedirect.com/science/article/pii/S0925231225003509)
@@ -106,7 +135,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:u-x6o8ySG0sC'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Video Frame Interpolation via Direct Synthesis with the Event-based Reference](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf)
@@ -118,7 +147,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:d1gkVwhDpl0C'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SAM-Event-Adapter: Adapting Segment Anything Model for Event-RGB Semantic Segmentation](https://ieeexplore.ieee.org/document/10611127/)
@@ -132,23 +161,23 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, et al.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# <!-- 🎖 --> Honors and Awards
 - *2026.09* Selected for Young Elite Scientists Sponsorship Program by CAST, Ph.D.
 - *2025.06* Received the title of Outstanding Graduate of Beijing University of Technology. 
 - *2024.09* Received National Scholarship. 
 <!-- - *2022.10* National Prize in the Chinese College Students Computer Competition.
 - *2022.05* Provincial Prize in the Chinese College Students Computer Software Design Competition. -->
 
-# 📖 Educations
+# <!-- 📖 --> Educations
 - *NOW*, pursuing a Ph.D. at Xiamen University (MAC Lab). 
 - *2022.09 - 2025.06*, Master's Degree, Beijing University of Technology (DMS Lab). 
 - *2018.09 - 2022.06*, Bachelor's Degress, Huaqiao Univsersity.
 
-# 🤝 Collaborators
+# <!-- 🤝 --> Collaborators
 - [Yongjian Deng](https://yongjiandeng.github.io/) - Nankai University.
 - [Yurun Chen](https://yurunchen.github.io/) - Zhejiang University.
 
-# 💻 Services
+# <!-- 💻 --> Services
 *Conference Reviewer*
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - ACM International Conference on Multimedia (ACM MM)
