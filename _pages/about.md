@@ -90,7 +90,7 @@ My current research focuses on embodied intelligence and multimodal large langua
 
 [One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.html)
 
-**Linghui Fu\***, **Yuhan Liu\***, Hao Chen, et al. <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:W7OEmFMy1HYC'></span></strong>
+**Linghui Fu\***, **Yuhan Liu\***, Hao Chen, et al. <span class="paper-highlight">(Highlight)</span> <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 <p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.html">Paper</a> &middot; <a href="https://github.com/Sudadaaaa/OF-AF">Code</a></p>
 <p class="paper-summary">We estimate holistic motion trajectories from events in a single pass and query optical flow at arbitrary timestamps. Bidirectional warping combines complementary keyframe information for efficient, high-quality interpolation.</p>

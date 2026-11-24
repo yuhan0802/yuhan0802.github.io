@@ -219,3 +219,8 @@ h1:before, .anchor:before {
     .publication-sort-status { flex-basis: 100%; }
     .publication-sort-status:empty { display: none; }
 }
+
+.paper-highlight {
+    color: #e53935;
+    white-space: nowrap;
+}
