@@ -5,6 +5,44 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
         {% endif %}
+        var papers = Array.prototype.slice.call(document.querySelectorAll('.paper-box[data-scholar-id]'));
+        var sortButtons = document.querySelectorAll('[data-publication-sort]');
+        var sortStatus = document.querySelector('.publication-sort-status');
+        var selectedSort = 'citations';
+        var publications = null;
+        var marker = null;
+        if (papers.length) {
+            marker = document.createComment('Publication list');
+            papers[0].parentNode.insertBefore(marker, papers[0]);
+        }
+        function sortPublications() {
+            var ranked = papers.map(function (paper, index) {
+                var publication = publications && publications[paper.getAttribute('data-scholar-id')];
+                var citations = publication && Number(publication.num_citations);
+                return {
+                    element: paper,
+                    citations: Number.isFinite(citations) ? citations : -1,
+                    year: Number(paper.getAttribute('data-year')) || 0,
+                    index: index
+                };
+            });
+            ranked.sort(function (a, b) {
+                var difference = selectedSort === 'latest' ? b.year - a.year : b.citations - a.citations;
+                return difference || a.index - b.index;
+            });
+            ranked.forEach(function (paper) {
+                marker.parentNode.insertBefore(paper.element, marker);
+            });
+            Array.prototype.forEach.call(sortButtons, function (button) {
+                button.setAttribute('aria-pressed', String(button.getAttribute('data-publication-sort') === selectedSort));
+            });
+        }
+        Array.prototype.forEach.call(sortButtons, function (button) {
+            button.addEventListener('click', function () {
+                selectedSort = button.getAttribute('data-publication-sort');
+                sortPublications();
+            });
+        });
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
             var totalCitation = data['citedby']
             var totalCitationElement = document.getElementById('total_cit')
@@ -20,28 +58,11 @@
                 }
             });
 
-            var papers = Array.prototype.slice.call(document.querySelectorAll('.paper-box[data-scholar-id]'));
-            if (papers.length) {
-                // Keep the publication section in place when moving its cards.
-                var marker = document.createComment('Publications sorted by citations');
-                papers[0].parentNode.insertBefore(marker, papers[0]);
-                var rankedPapers = papers.map(function (paper, index) {
-                    var publication = data['publications'] && data['publications'][paper.getAttribute('data-scholar-id')];
-                    var citations = publication && Number(publication['num_citations']);
-                    return {
-                        element: paper,
-                        citations: Number.isFinite(citations) ? citations : -1,
-                        index: index
-                    };
-                });
-                rankedPapers.sort(function (a, b) {
-                    return b.citations - a.citations || a.index - b.index;
-                });
-                rankedPapers.forEach(function (paper) {
-                    marker.parentNode.insertBefore(paper.element, marker);
-                });
-                marker.parentNode.removeChild(marker);
-            }
+            publications = data.publications || {};
+            if (sortStatus) sortStatus.textContent = '';
+            sortPublications();
+        }).fail(function () {
+            if (sortStatus) sortStatus.textContent = 'Citation counts unavailable. Latest sorting is still available.';
         });
-    })
+    });
 </script>

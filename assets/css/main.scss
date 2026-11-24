@@ -189,3 +189,32 @@ h1:before, .anchor:before {
 .show_paper_citations {
     white-space: nowrap;
 }
+
+.publication-sort {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5em;
+    margin: 0.75em 0;
+    font-size: 0.8em;
+
+    button {
+        padding: 0.3em 0.75em;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        background: #fff;
+        color: #16396a;
+        font: inherit;
+        cursor: pointer;
+
+        &[aria-pressed="true"] {
+            background: #16396a;
+            border-color: #16396a;
+            color: #fff;
+        }
+        &:focus-visible { outline: 2px solid #16396a; outline-offset: 3px; }
+    }
+
+    .publication-sort-status { flex-basis: 100%; }
+    .publication-sort-status:empty { display: none; }
+}
