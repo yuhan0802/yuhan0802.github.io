@@ -125,11 +125,11 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al. <strong><span class='show_paper_citati
 <div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:Tyk-4Ss8FVUC' data-year='2025'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/nips2025.jpg' alt="Overview of EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning](https://github.com/yuhan0802/EPA)
+[EPA: Boosting Event-based Video Frame Interpolation with Perceptually Aligned Learning](https://proceedings.neurips.cc/paper_files/paper/2025/hash/4ec0b6648bdf487a2f1c815924339022-Abstract-Conference.html)
 
 **Yuhan Liu**, Linghui Fu, Zhen Yang, et al. <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
-<p class="paper-links"><a href="https://github.com/yuhan0802/EPA">Paper</a> &middot; <a href="https://github.com/yuhan0802/EPA">Code</a></p>
+<p class="paper-links"><a href="https://proceedings.neurips.cc/paper_files/paper/2025/hash/4ec0b6648bdf487a2f1c815924339022-Abstract-Conference.html">Paper</a> &middot; <a href="https://github.com/yuhan0802/EPA">Code</a></p>
 <p class="paper-summary">EPA introduces perceptually aligned learning for event-based video frame interpolation. Training in a semantic feature space improves robustness to image degradation.</p>
 </div>
 </div>

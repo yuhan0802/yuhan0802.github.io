@@ -76,6 +76,12 @@
         min-width: 0;
         width: 100%;
 
+        > p:first-child > a {
+            text-decoration: none;
+
+            &:hover, &:focus-visible { text-decoration: underline; }
+        }
+
         > p { margin: 0 0 0.65em; }
         > p:last-child { margin-bottom: 0; }
     }
