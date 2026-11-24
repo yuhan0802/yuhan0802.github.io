@@ -56,7 +56,7 @@
         > div {
             position: relative;
             width: 100%;
-            aspect-ratio: 5 / 3;
+            aspect-ratio: 2 / 1;
             overflow: hidden;
             border: 1px solid #efefef;
             border-radius: 6px;
@@ -194,25 +194,26 @@ h1:before, .anchor:before {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    gap: 0.5em;
+    gap: 0.75em;
     margin: 0.75em 0;
-    font-size: 0.8em;
+    font-size: 0.78em;
+    color: #000;
 
     button {
-        padding: 0.3em 0.75em;
-        border: 1px solid #ddd;
-        border-radius: 4px;
-        background: #fff;
+        padding: 0;
+        border: 0;
+        border-radius: 0;
+        background: transparent;
         color: #16396a;
         font: inherit;
         cursor: pointer;
 
+        &:hover { text-decoration: underline; }
         &[aria-pressed="true"] {
-            background: #16396a;
-            border-color: #16396a;
-            color: #fff;
+            text-decoration: underline;
+            text-underline-offset: 4px;
         }
-        &:focus-visible { outline: 2px solid #16396a; outline-offset: 3px; }
+        &:focus-visible { outline: 2px solid #16396a; outline-offset: 4px; }
     }
 
     .publication-sort-status { flex-basis: 100%; }
