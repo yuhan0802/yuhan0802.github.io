@@ -156,4 +156,5 @@ Bowen Yao, Yongjian Deng, **Yuhan Liu**, Hao Chen, Youfu Li, Zhen Yang
 
 *Journal Reviewer*
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Multimedia (TMM)
 - Transactions on Image Processing (TIP)
