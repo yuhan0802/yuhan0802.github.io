@@ -80,11 +80,11 @@ My research interest includes multimodal and efficient training. If you’re int
 <div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:W7OEmFMy1HYC'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="Overview of One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://github.com/Sudadaaaa/OF-AF)
+[One-Shot Flow, Any-Time Frame: A Bidirectional Warping Framework for Event-Based Video Frame Interpolation](https://openaccess.thecvf.com/content/CVPR2026/html/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.html)
 
 **Linghui Fu\***, **Yuhan Liu\***, Hao Chen, et al. <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:W7OEmFMy1HYC'></span></strong>
 
-<p class="paper-links"><a href="https://github.com/Sudadaaaa/OF-AF">Code</a></p>
+<p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Fu_One-Shot_Flow_Any-Time_Frame_A_Bidirectional_Warping_Framework_for_Event-Based_CVPR_2026_paper.html">Paper</a> &middot; <a href="https://github.com/Sudadaaaa/OF-AF">Code</a></p>
 <p class="paper-summary">We estimate holistic motion trajectories from events in a single pass and query optical flow at arbitrary timestamps. Bidirectional warping combines complementary keyframe information for efficient, high-quality interpolation.</p>
 </div>
 </div>
@@ -105,10 +105,11 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al. <strong><span class='show_paper_citati
 <div class='paper-box' data-scholar-id='Tzv0bjoAAAAJ:IjCSPb-OGe4C'><div class='paper-box-image'><div><div class="badge">EAAI 2025</div><img src='images/EAAI2025.png' alt="Overview of Event-based Video Interpolation via Complementary Motion Information" loading="lazy" decoding="async" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Event-based Video Interpolation via Complementary Motion Information](https://yuhan0802.github.io/)
+[Event-based Video Interpolation via Complementary Motion Information](https://www.sciencedirect.com/science/article/pii/S0952197625026375)
 
 **Yuhan Liu**, Linghui Fu, Hao Chen, et al. <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:IjCSPb-OGe4C'></span></strong>
 
+<p class="paper-links"><a href="https://www.sciencedirect.com/science/article/pii/S0952197625026375">Paper</a></p>
 <p class="paper-summary">We combine dense frame context with sparse event motion cues through Edge Guided Attention. An event-based visibility map handles occlusions during frame warping.</p>
 </div>
 </div>
@@ -144,7 +145,7 @@ Yi Ding, Bowen Yao, **Yuhan Liu**, et al. <strong><span class='show_paper_citati
 
 **Yuhan Liu**, Yongjian Deng, Hao Chen, et al. <strong><span class='show_paper_citations' data='Tzv0bjoAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-<p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf">Paper</a></p>
+<p class="paper-links"><a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Video_Frame_Interpolation_via_Direct_Synthesis_with_the_Event-based_Reference_CVPR_2024_paper.pdf">Paper</a> &middot; <a href="https://github.com/yuhan0802/DSER">Code</a></p>
 <p class="paper-summary">We synthesize intermediate frames directly from an event-derived reference. Event-guided deformable alignment improves reconstruction under occlusion and complex motion.</p>
 </div>
 </div>
